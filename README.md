@@ -2,8 +2,8 @@
 
 Este projeto é uma aplicação web simples para cadastro e gerenciamento de convites para o CodeCraft Summit 2025. A ideia é proporcionar uma experiência interativa de inscrição para um evento online, com um sistema de referência que permite aos participantes convidar amigos e acompanhar quantas inscrições foram realizadas através do seu link.
 
-<img src="./image.png" alt="Visual do Projeto" width="200" />
-<img src="./image copy.png" alt="Visual do Projeto" width="200" />
+<img src="./image.png" alt="Visual do Projeto" width="400" />
+<img src="./image copy.png" alt="Visual do Projeto" width="400" />
 
 ## Funcionalidades
 
